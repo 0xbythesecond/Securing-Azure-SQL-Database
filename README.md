@@ -9,8 +9,8 @@ In this lesson, you will learn how to implement various security features for an
 
 #### Prerequisites:
 
-An Azure subscription with Owner or Contributor role access.
-Basic understanding of Azure portal navigation.
+- An Azure subscription with Owner or Contributor role access.
+- Basic understanding of Azure portal navigation.
 
 Lesson Steps:
 
