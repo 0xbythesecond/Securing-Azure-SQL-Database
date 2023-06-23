@@ -1,8 +1,6 @@
 # Securing-Azure-SQL-Database
 
-<p align="center"> 
-<img src="https://github.com/0xbythesecond/Securing-Azure-SQL-Database/assets/23303634/c6e5d63e-2509-4e17-a715-48c4b3518d4b" height="80%" width="80%" alt="Securing Azure SQL Database"/>
-</p>
+![Securing Azure SQL Database](https://github.com/0xbythesecond/Securing-Azure-SQL-Database/assets/23303634/c6e5d63e-2509-4e17-a715-48c4b3518d4b)
 
 ## Introduction
 In this lesson, you will learn how to implement various security features for an Azure SQL Database. The exercise consists of four tasks: deploying an Azure SQL Database, configuring advanced data protection, configuring data classification, and configuring auditing. These tasks will help you enhance the security of your SQL Database and protect sensitive data.
