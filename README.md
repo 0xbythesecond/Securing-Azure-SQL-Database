@@ -1,4 +1,4 @@
-# Securing-Azure-SQL-Database
+# Securing Azure SQL Database
 
 ![Securing Azure SQL Database](https://github.com/0xbythesecond/Securing-Azure-SQL-Database/assets/23303634/c6e5d63e-2509-4e17-a715-48c4b3518d4b)
 
